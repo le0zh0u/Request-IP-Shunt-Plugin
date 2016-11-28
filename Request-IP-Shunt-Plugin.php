@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Request IP Shunt Plugin
-Plugin URI: http://leozhou.me/
+Plugin URI: https://github.com/le0zh0u/Request-IP-Shunt-Plugin
 Description: shunt request to domestic server or abroad server by user's ip address
 Version: 1.0
 Author: leozhou
